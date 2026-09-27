@@ -4,7 +4,7 @@ Mini Sky Archive merupakan aplikasi Android sederhana menggunakan Custom ListVie
 
 ## Tampilan Aplikasi
 
-![Mini Sky Archive](mini-sky-archive.jpeg)
+<img src="mini-sky-archive.jpeg" alt="Mini Sky Archive" width="300">
 
 ## Fitur
 
